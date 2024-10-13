@@ -39,7 +39,7 @@ shwdnjs@gmail.com
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 <br><br>
 
-# 💻 My stats
+# 💻 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjs0585)](https://solved.ac/dnjs0585/)
 
 ![hye1w's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye1w&theme=dark&show_icons=true)
